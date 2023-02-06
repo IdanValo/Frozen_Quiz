@@ -1,7 +1,7 @@
 # Frozen_Quiz
 Quiz Game Unity(WIP)
 
-Changelog 1.0:
+Update 1.0 - 06.02.23:
 
 -Fixed panel scale resolution after build
 
