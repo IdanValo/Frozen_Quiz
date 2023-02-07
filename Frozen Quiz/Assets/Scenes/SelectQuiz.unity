@@ -426,7 +426,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Technology
+  m_text: Video Game
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d96133fb15ebcd444a23c4db48930bf7, type: 2}
   m_sharedMaterial: {fileID: 7170854728307832470, guid: d96133fb15ebcd444a23c4db48930bf7, type: 2}
@@ -936,7 +936,7 @@ GameObject:
   - component: {fileID: 908594325}
   - component: {fileID: 908594324}
   m_Layer: 5
-  m_Name: Lifestyle
+  m_Name: Technology
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1742,7 +1742,7 @@ GameObject:
   - component: {fileID: 1187225232}
   - component: {fileID: 1187225231}
   m_Layer: 5
-  m_Name: Technology
+  m_Name: Video Game
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2176,7 +2176,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Lifestyle
+  m_text: Technology
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d96133fb15ebcd444a23c4db48930bf7, type: 2}
   m_sharedMaterial: {fileID: 7170854728307832470, guid: d96133fb15ebcd444a23c4db48930bf7, type: 2}
