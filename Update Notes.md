@@ -29,10 +29,12 @@ Update 1.2 - 07.02.23:
 
 _______________________________________________________________________________________
 
-Update 1.3 - 07.02.23:
+Update 1.3.1 - 07.02.23:
 
 -Music Quiz ready to play with 30 Questions.
 
 -Rearrange Questions Folders by Categories.
+
+-Add button to select "Music" Quiz
 
 _______________________________________________________________________________________
