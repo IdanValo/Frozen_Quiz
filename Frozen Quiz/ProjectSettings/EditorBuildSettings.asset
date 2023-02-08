@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Musics.unity
     guid: 6cab86172220ce74db8cc1a60e6ff393
+  - enabled: 1
+    path: Assets/Scenes/Geography.unity
+    guid: e9ef3c9efa9ec56499fccf5a62735a15
   m_configObjects: {}
