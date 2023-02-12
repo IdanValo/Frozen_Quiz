@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe0529571d5aaa744a5207b22b7f2f4c, type: 3}
   m_Name: History Question 16
   m_EditorClassIdentifier: 
-  question: 'Which battle ended the war of Roses? '
+  question: How long did 100 years war last?
   answers:
-  - Battle of Waterloo
-  - Battle of Hastings
-  - Battle of Verdun
-  - Battle of Bosworth
-  correctAnswerIndex: 3
+  - 111 Years
+  - 116 Years
+  - 99 Years
+  - 100 Years
+  correctAnswerIndex: 2
