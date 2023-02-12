@@ -53,12 +53,12 @@ ________________________________________________________________________________
 
 Update 1.5.1 - 12.02.23:
 
--Fixed Question 17
+-Fixed History Question 17
 
--New Question 5
+-New History Question 5
 
--New Question 15
+-New History Question 15
 
--New Question 16
+-New History Question 16
 
 _______________________________________________________________________________________
