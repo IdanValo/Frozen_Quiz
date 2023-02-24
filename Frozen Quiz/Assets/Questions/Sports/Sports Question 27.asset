@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe0529571d5aaa744a5207b22b7f2f4c, type: 3}
   m_Name: Sports Question 27
   m_EditorClassIdentifier: 
-  question: Avram Grant was manager of which national side from 2002-2006?
+  question: What year was the first-ever Wimbledon tournament held?
   answers:
-  - Ghana
-  - Israel
-  - Cyprus
-  - Zambia
+  - 1876
+  - 1877
+  - 1976
+  - 1977
   correctAnswerIndex: 1

@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe0529571d5aaa744a5207b22b7f2f4c, type: 3}
   m_Name: Sports Question 22
   m_EditorClassIdentifier: 
-  question: Who were the winners of the Champions League in 2002?
+  question: In what year did the first ever European Cup(UCL) final take place?
   answers:
-  - Valencia
-  - Bayern Munich
-  - Real Madrid
-  - Bayer Leverkusen
+  - 1960
+  - 1950
+  - 1955
+  - 1965
   correctAnswerIndex: 2

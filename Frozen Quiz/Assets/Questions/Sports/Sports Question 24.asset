@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe0529571d5aaa744a5207b22b7f2f4c, type: 3}
   m_Name: Sports Question 24
   m_EditorClassIdentifier: 
-  question: Which team won the 1967 European Cup Final?
+  question: Who has won the most UEFA Champions League titles?
   answers:
-  - Inter Milan
   - Ajax
-  - CSKA Sofia
-  - Celtic
+  - Manchester United
+  - Bayern Munich
+  - Real Madrid
   correctAnswerIndex: 3

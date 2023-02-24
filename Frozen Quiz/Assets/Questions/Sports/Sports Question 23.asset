@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe0529571d5aaa744a5207b22b7f2f4c, type: 3}
   m_Name: Sports Question 23
   m_EditorClassIdentifier: 
-  question: Who knocked Arsenal out of the Champions League in 2008-09?
+  question: Who is the all-time champions league record goal scorer?
   answers:
-  - Manchester United
-  - Roma
-  - Barcelona
-  - Lyon
-  correctAnswerIndex: 0
+  - Lionel Messi
+  - Cristiano Ronaldo
+  - Robert Lewandowski
+  - Karim Benzema
+  correctAnswerIndex: 1

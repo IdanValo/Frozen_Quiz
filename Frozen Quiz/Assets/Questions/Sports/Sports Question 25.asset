@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe0529571d5aaa744a5207b22b7f2f4c, type: 3}
   m_Name: Sports Question 25
   m_EditorClassIdentifier: 
-  question: '"Magyars" is the nickname of which international football side?'
+  question: Who has won the African Cup of Nations the most times?
   answers:
-  - Hungary
-  - Romania
-  - Moldova
-  - Belarus
+  - Egypt
+  - Cameroon
+  - Morocco
+  - South Africa
   correctAnswerIndex: 0

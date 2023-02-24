@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe0529571d5aaa744a5207b22b7f2f4c, type: 3}
   m_Name: Sports Question 12
   m_EditorClassIdentifier: 
-  question: What did WWE used to be called?
+  question: "Who holds the World Record for Solving Rubik\u2019s Cube at 3.47 Seconds?"
   answers:
-  - WWR
-  - WCW
-  - WWF
-  - ECW
+  - Feliks Zemdegs
+  - Max Park
+  - Yusheng Du
+  - Patrick Ponce
   correctAnswerIndex: 2

@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe0529571d5aaa744a5207b22b7f2f4c, type: 3}
   m_Name: Sports Question 10
   m_EditorClassIdentifier: 
-  question: Who is the current Smackdown Women's Champion?
+  question: Who has the Highest Number of Gold Medals in Olympic History?
   answers:
-  - Alexa Bliss
-  - Charlotte Flair
-  - Bianca Belair
-  - Scarlett
+  - Larisa Latynina
+  - Michael Phelps
+  - Mark Spitz
+  - Saina Nehwal
   correctAnswerIndex: 1
