@@ -50,3 +50,15 @@ Update 1.5 - 12.02.23:
 -History Quiz ready to play with 30 Questions
 
 _______________________________________________________________________________________
+
+Update 1.5.1 - 12.02.23:
+
+-Fixed History Question 17
+
+-New History Question 5
+
+-New History Question 15
+
+-New History Question 16
+
+_______________________________________________________________________________________
